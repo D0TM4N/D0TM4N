@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Ido
 - 👀 I’m interested in larning more about Python.
 - 🌱 I’m currently learning python, javascript
-- 📫 How to reach me:
-Discord - MrBorrito#1234
-email: bobsfog2009@gmail.com
+
 
 <!---
 D0TM4N/D0TM4N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
