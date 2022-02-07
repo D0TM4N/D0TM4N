@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ido
 - 👀 I’m interested in larning more about Python.
-- 🌱 I’m currently learning python, javascript
+- 🌱 I’m currently learning python, javascript, Java
 
 
 <!---
